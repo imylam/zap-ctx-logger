@@ -1,4 +1,4 @@
-package zapctx_enrich
+package zapctx_logger
 
 import (
 	"context"

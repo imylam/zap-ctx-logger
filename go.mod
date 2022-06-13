@@ -3,7 +3,10 @@ module github.com/imylam/zap-ctx-logger
 go 1.18
 
 require (
+	github.com/golang/mock v1.6.0
 	github.com/stretchr/testify v1.7.2
+	go.opentelemetry.io/otel v1.7.0
+	go.opentelemetry.io/otel/trace v1.7.0
 	go.uber.org/zap v1.21.0
 )
 

@@ -1,0 +1,1 @@
+mockgen -destination=mock/mock_otel_span.go -package=mock  go.opentelemetry.io/otel/trace Span
